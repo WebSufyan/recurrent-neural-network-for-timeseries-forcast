@@ -1,2 +1,2 @@
 # recurrent neural network for timeseries forcast
- forcatsing alcohol using RNN
+ forcasting alcohol sales using RNN
